@@ -1,0 +1,59 @@
+html{
+    background-color: #339966;
+}
+
+body{
+  margin: auto;
+  width: 70%;
+  padding: 5%;
+  font-family: 'Quicksand', sans-serif;
+  background-color: white;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: #339966;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  color: #339966;
+}
+
+#Transform{
+  border: none;
+  color: white;
+  margin-left: 15px;
+  padding: 5px 15px;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: #40bf80;
+}
+
+#Transform:hover{
+  background:  #339966;
+}
+
+#Transform:active{
+  background:  #339966;
+}
+
+#Show{
+  border: none;
+  color: white;
+  margin-left: 15px;
+  padding: 5px 15px;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: #40bf80;
+}
+
+#Show:hover{
+  background:  #339966;
+}
+
+#Show:active{
+  background:  #339966;
+}
